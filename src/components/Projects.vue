@@ -43,7 +43,7 @@ export default {
           desc:
             "This is an imaginary Orienteering Event website that I have created as a side project. The goal is to create a website that will include all information about the event and handle new event entries. Some additional features will be included such as chat or interactive map that will let the user add a mark on the map and inform other competitors that he has free space in his car and is willing to take other competitors to the event from his area.",
           git: "https://github.com/piotreksko/Orienteering-event",
-          live: "https://makao-win-counter.firebaseapp.com/",
+          live: "https://orienteering-event.firebaseapp.com/",
           image: require("../assets/orienteering.jpg"),
           tags: ["Vue.js", "Vuex", "Vuetify", "Firebase"]
         },

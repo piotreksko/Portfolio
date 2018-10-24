@@ -16,9 +16,9 @@
 export default {
   name: "Contact",
   data:() => ({
-    name: 'Name',
-    email: 'E-Mail',
-    message: 'Message'
+    name: '',
+    email: '',
+    message: ''
   })
 };
 </script>
